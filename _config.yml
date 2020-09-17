@@ -15,10 +15,11 @@ author: Aishwarya Naresh
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  The boring stuff:
+    - Education: "https://www.markdowntutorial.com/"
+    - Publications: "https://beautifuljekyll.com"
+    - Internships/ Experiences: "https://www.markdowntutorial.com/"
+  Blog: "https://deanattali.com"
 
 # --- Logo --- #
 
