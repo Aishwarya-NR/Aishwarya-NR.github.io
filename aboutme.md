@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: "A deep quote about life, determination and hard work
+\- someone renown "
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi there! I'm Aishwarya (that's me) Naresh (my dad) Reganti (his ancestors et al.'ed). <br/>
+I work as an Applied Scientist for Alexa, my team builds teachable AI systems 
+that help Alexa understand better via interactive conversations. A few things about me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I love having casual conversations over some good caffeine
+- I believe that the best kind of learning is unlearning (you read it right). I give it my best shot while trying to unlearn stereotypes, first-impressions and pre-conceived notions.
+- I relish good food, but appreciate restaurants that go out of their way to make food clean and harmless
+- I'm an amateur fitness enthusiast and the dopamine boost is already getting addictive!
+- I dig profound writing (I feel that storytelling is an art that only few manage to master)
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
