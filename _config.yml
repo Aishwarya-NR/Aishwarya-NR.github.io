@@ -17,8 +17,8 @@ navbar-links:
   About Me: "aboutme"
   The serious stuff:
     - Education: "https://www.markdowntutorial.com/"
-    - Publications: "https://beautifuljekyll.com"
-    - Internships/ Experiences: "https://www.markdowntutorial.com/"
+    - Publications: "publications"
+    - Internships/ Experiences: "Experiences"
   Blog: "https://deanattali.com"
 
 # --- Logo --- #
