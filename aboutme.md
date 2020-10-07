@@ -11,11 +11,11 @@ Currently, I work as an Applied Scientist for Alexa, my team builds teachable AI
 that help Alexa understand better via interactive conversations.  
 A few things about me:
 
-- I love having casual conversations over some good caffeine
+- I love having casual conversations over some good caffeine.
 - I believe that the best kind of learning is unlearning (you read it right). I give it my best shot while trying to unlearn stereotypes, first-impressions and pre-conceived notions.
-- I relish good food, but appreciate restaurants that go out of their way to make food clean and harmless
+- I relish good food, but appreciate restaurants that go out of their way to make food clean and harmless.
 - I'm an amateur fitness enthusiast and the dopamine boost is already getting addictive!
-- I dig profound writing (I feel that storytelling is an art that only few manage to master)
+- I dig profound writing (I feel that storytelling is an art that only few manage to master).
 
 
 
